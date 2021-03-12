@@ -1,5 +1,5 @@
 # Fuse_Assortment_Box_ATO
-Inlay with ATO-Fuse Amo Values for 5x3 Box from eBay.
+Inlay with ATO-Fuse Amp Values for 5x3 Box from eBay.
 
 ![](2021-03-07_212743.png)
 
