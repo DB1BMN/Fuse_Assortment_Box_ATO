@@ -1,7 +1,10 @@
 # Fuse_Assortment_Box_ATO
 Inlay with ATO-Fuse Amo Values for 5x3 Box from eBay.
 
+![](2021-03-07_212743.png)
+
 When printing on both sides set "Long Edge".
+
 
 ![](_resources/P2280037.JPG)
 ![](_resources/P2280038.JPG)
